@@ -1,0 +1,12 @@
+{
+  "name": "js_llm_test",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.3.12",
+    "@langchain/ollama": "^0.1.2",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.5"
+  }
+}
